@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">tutorial2</string>
+    <string name="app_name">Hello World</string>
+    <string name="button">START!</string>
+    <string name="name">TIMER</string>
+    <string name="input_hint">Set Your Timer Here! (Seconds)</string>
+    <string name="timer">-</string>
+    <string name="reset">RESET</string>
+    <string name="pause">PAUSE</string>
 </resources>
